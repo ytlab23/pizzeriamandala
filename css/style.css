@@ -626,7 +626,7 @@ i.fa.fa-cutlery {
 	border: 1px solid #999;
 }
 .projects-agile-grid-info:hover .projects-grid-caption{
-    bottom: 0%;
+    bottom: -20%;
 }
 /*--flexisel--*/
 .flex-slider{	
@@ -966,7 +966,7 @@ button.btn1:hover {
     height: 64px;
     border: none;
     text-indent: 100%;
-    background: url(/web/20170704232622im_/http://pizzeriamandala.com/images/arrow-up.png) no-repeat 0px 0px;
+    background: url(../images/arrow-up.png) no-repeat 0px 0px;
 }
 #toTopHover {
     width: 32px;

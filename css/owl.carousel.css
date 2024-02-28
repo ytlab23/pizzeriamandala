@@ -29,13 +29,14 @@ display: block;
 width: 25px;
 height: 5px;
 margin: 5px 6px;
-    background:#f19f7b;
+background:#f19f7b;
 border-radius: 100px;
 }
 .owl-pagination {
 position: absolute;
 right: 45%;
 bottom: -39px;
+display: flex;
 }
 .owl-carousel2 div.owl-pagination {
 position: absolute;
